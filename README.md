@@ -15,20 +15,6 @@ By the end of the course, students are expected to be able to:
 7. Explain the fundamental ideas and terminology of hypothesis testing.
 8. Perform estimation using Maximum Likelihood.
 
-## Teaching Team
-
-At your service!
-
-| Position           | Name    | Slack Handle | GHE Handle | Office hours |
-| :----------------: | :-----: | :----------: | :--------: | :----------: |
-| Lecture & Lab Instructor | Tiffany | `@tiffany`   | `@timberst` | Wednesdays in ESB 3152 |
-| Teaching Assistant | Kate Johnson | `@Kate Johnson`  | `@katemj91` | 13:00-14:00 on Mondays in CS 204 |
-| Teaching Assistant | Julian Ho | `@Julian`| `@hyhoaa` | 14:00-15:00 on Tuesdays in ESB 3174 |
-| Teaching Assistant | 	Flora Liu | `	@Flora Liu` | `@floraliu`  | 12:30-13:30 on Thursdays in 3174 |
-| Teaching Assistant | Pedro Odon | `@podon` | `@podon` | TBD | 14:00-15:00 on Fridays in ESB 3174  |
-
-*note - Attendance at office hours is optional* 
-
 ## Assessments
 
 This is an __assignment-based course__. You'll be evaluated as follows:
