@@ -2,6 +2,10 @@
 
 The statistical and probabilistic foundations of inference, the frequentist paradigm. Concepts first introduced through simulation, followed with an introduction and exploration of asymptotic theory. 
 
+## Sample lecture:
+To view a sample lecture in an interactive notebook click on the Binder launch button below:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UBC-MDS/DSCI_552_stat-inf-1/master?filepath=lectures%2F01_lecture-sampling-through-simulation.ipynb)
+
 ## Learning Outcomes
 
 By the end of the course, students are expected to be able to:
@@ -14,10 +18,6 @@ By the end of the course, students are expected to be able to:
 6. Carry out basic hypothesis tests in a responsible manner, and responsibly apply them in appropriate situations.
 7. Explain the fundamental ideas and terminology of hypothesis testing.
 8. Perform estimation using Maximum Likelihood.
-
-## Sample lecture:
-To view a sample lecture in an interactive notebook click on the Binder launch button below:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UBC-MDS/DSCI_552_stat-inf-1/master?filepath=lectures%2F01_lecture-sampling-through-simulation.ipynb)
 
 ## Assessments
 
