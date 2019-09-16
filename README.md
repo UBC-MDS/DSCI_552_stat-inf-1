@@ -15,6 +15,10 @@ By the end of the course, students are expected to be able to:
 7. Explain the fundamental ideas and terminology of hypothesis testing.
 8. Perform estimation using Maximum Likelihood.
 
+## Sample lecture:
+To view a sample lecture in an interactive notebook click on the Binder launch button below:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UBC-MDS/DSCI_552_stat-inf-1/master?filepath=lectures%2F01_lecture-sampling-through-simulation.ipynb)
+
 ## Assessments
 
 This is an __assignment-based course__. You'll be evaluated as follows:
