@@ -42,7 +42,7 @@ Tip: Use the lecture learning objectives as beacons when studying for your quizz
 | 5 | There is only one test | <ul><li>[There is only one test!](http://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)</li><li>[There is still only one test](http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html)</li></ul> |
 | 6 | An introduction to Asympototic theory | |
 | 7 | Using Asympototic theory for confidence intervals and hypothesis tests | |
-| 8 | Maximum Liklihood Estimation | |
+| 8 | Maximum Likelihood Estimation | |
 
 ## Textbooks
 1. [Modern Dive: An Introduction to Statistical and Data Sciences](https://moderndive.com/index.html) by R by Chester Ismay and Albert Y. Kim
