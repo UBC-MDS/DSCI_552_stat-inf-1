@@ -35,7 +35,7 @@ Tip: Use the lecture learning objectives as beacons when studying for your quizz
 
 | Lecture | Topic | Readings |
 |------------|-------------|------|
-| 1 | Understanding sampling through simulation | <ul><li>[Sampling](https://moderndive.com/8-sampling.html#introduction-to-sampling)</li></ul> |
+| 1 | [Understanding sampling through simulation](lectures/01_lecture-sampling-through-simulation.ipynb) | <ul><li>[Sampling](https://moderndive.com/8-sampling.html#introduction-to-sampling)</li></ul> |
 | 2 | Bootstrapping | <ul><li>[Bootstrapping](https://moderndive.com/9-confidence-intervals.html#bootstrapping)</li><li>[Comparing bootstrap and sampling distributions](https://moderndive.com/9-confidence-intervals.html#comparing-bootstrap-and-sampling-distributions)</li></ul> |
 | 3 | Confidence intervals using bootstrapping| <ul><li>[Confidence Intervals](https://moderndive.com/9-confidence-intervals.html#comparing-bootstrap-and-sampling-distributions)</li></ul> |
 | 4| Introduction to Hypothesis testing | <ul><li>[Hypothesis Testing](https://moderndive.com/10-hypothesis-testing.html#ht-basics)</li></ul> |
