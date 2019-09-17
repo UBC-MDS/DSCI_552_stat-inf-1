@@ -2,6 +2,11 @@
 
 The statistical and probabilistic foundations of inference, the frequentist paradigm. Concepts first introduced through simulation, followed with an introduction and exploration of asymptotic theory. 
 
+## Sample lecture:
+Click on the Binder launch button below to view a sample lecture in an interactive notebook:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UBC-MDS/DSCI_552_stat-inf-1/master?filepath=lectures%2F01_lecture-sampling-through-simulation.ipynb)
+
 ## Learning Outcomes
 
 By the end of the course, students are expected to be able to:
