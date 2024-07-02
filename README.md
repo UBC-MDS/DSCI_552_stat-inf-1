@@ -36,8 +36,6 @@ By the end of the course, students are expected to:
 | 7 | [Tests for Multiple Group Comparisons]() |<ul><li> [Open Intro Statistics: Chapters 6 & 7](https://www.openintro.org/book/os/)</li><li> [Stats and R: ANOVA in R](https://statsandr.com/blog/anova-in-r/#anova-in-r) </li><li> [Modern Dive: Chapter 9](https://moderndive.com/index.html) </li><li> [Learning Statistics with R: Chapter 14](https://learningstatisticswithr.com/) </li></ul>|
 | 8 | [Errors in Inference / There is only one test!](https://pages.github.ubc.ca/MDS-2023-24/DSCI_552_stat-inf-1_students/notes/08_lectures-errors-in-inference-and-there-is-only-one-test.html) | <ul><li>[There is still only one test](http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html)</li><li>[Modern Dive: Chapter 9, section 9.4](https://moderndive.com/9-hypothesis-testing.html)</li><li>[Interactive Simulation](https://rpsychologist.com/d3/nhst/)</li><li> [Video: Introduction to power in hypothesis test](https://www.youtube.com/watch?v=6_Cuz0QqRWc)</li></ul>|
 
-See the [lecture learning objectives](lecture-learning-objectives.md) for a detailed breakdown of lecture-by-lecture learning objectives.
-
 ## Deliverables
 
 This is an __assignment-based course__. The following deliverables will determine your course grade:
