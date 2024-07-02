@@ -25,7 +25,7 @@ By the end of the course, students are expected to:
 
 ## Lecture Topics
 
-| Lecture | Topic | Pre-readings |
+| Lecture | Topic | References |
 |:------------:|:-------------:|:------:|
 | 1 | [Populations and Sampling]() | [Modern Dive: Chapter 7](https://moderndive.com/7-sampling.html) |
 | 2 | [Bootstrapping and its Relationship to the Sampling Distribution](https://pages.github.ubc.ca/MDS-2023-24/DSCI_552_stat-inf-1_students/notes/02_lecture-sampling-and-bootstrapping.html) | [Modern Dive: Chapter 8, sections 8 - 8.2 inclusive](https://moderndive.com/8-confidence-intervals.html#bootstrap-35-replicates) |
