@@ -3,8 +3,6 @@ Welcome to DSCI 552: Statistical Inference and Computation I
 
 This course reviews classical and simulation-based techniques for estimation and hypothesis testing, including inference for means and proportions. We make particular emphasis on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports.
 
-**Slack Channel:** [https://ubc-mds.slack.com/messages/552_stat-inf-1](https://ubc-mds.slack.com/messages/552_stat-inf-1)
-
 ## High-Level Goals
 
 By the end of the course, students are expected to:
